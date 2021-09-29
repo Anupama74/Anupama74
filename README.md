@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anupama SJ (@Anupama74)
 - 👀 I’m interested in Artificial Intelligence, machine learning, deep learning and computer vision technologies
 - 🌱 I’m currently learning and practising data science methodologies, libraries and tools under different projects to build ML, DL models, algorithms and  solutions  
-- 💞️ For any further information and details on my project, please reach me as they are confidential projects under different organizations.
+- 💞️ For any further information and details on my project, please reach me as they are confidential and in private repos.
 - 📫 How to reach me anupama7433@gmail.com, LinkedIN: https://www.linkedin.com/in/anupama-s-j-india3347/
 
 <!---
